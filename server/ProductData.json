@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Mystic Rose",
+    "description": "A romantic blend of rose, jasmine, and vanilla, perfect for evening wear.",
+    "price": 49.99,
+    "image": "https://piimages.parfumo.de/7/8/268237_9129c2db8c2bce7fc815510c0bf79892_mystic-rose.jpg",
+    "reviews": [
+      {
+        "user": "Sophia",
+        "comment": "The scent is heavenly and lasts all day!",
+        "rating": 5
+      },
+      {
+        "user": "Emma",
+        "comment": "Very floral, a bit strong at first but settles nicely.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Citrus Breeze",
+    "description": "Fresh and energizing citrus notes with hints of mint and bergamot.",
+    "price": 39.99,
+    "image": "https://anaustore.com/cdn/shop/files/AF96847D-1284-483B-9E8F-C1DB43B6296C.webp?v=1699551622&width=1200",
+    "reviews": [
+      {
+        "user": "Liam",
+        "comment": "Perfect for summer! So refreshing.",
+        "rating": 5
+      },
+      {
+        "user": "Olivia",
+        "comment": "I love the citrus notes, but it fades quickly.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Dream",
+    "description": "A sweet and cozy fragrance with rich vanilla, caramel, and musk.",
+    "price": 34.99,
+    "image": "https://i.pinimg.com/736x/56/33/bf/5633bf77fae39dcdc533e92c2f9d46ae.jpg",
+    "reviews": [
+      {
+        "user": "Ava",
+        "comment": "Warm and comforting, it's my go-to for daily wear.",
+        "rating": 5
+      },
+      {
+        "user": "Noah",
+        "comment": "Very sweet, could be overpowering if you don't like heavy scents.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Ocean Mist",
+    "description": "A cool and breezy scent, with oceanic notes, sea salt, and a touch of lavender.",
+    "price": 44.99,
+    "image": "https://th.bing.com/th/id/OIP.tibw6bdcVWfdu3tA6TgrhgAAAA?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "user": "Isabella",
+        "comment": "A light, airy fragrance that reminds me of the beach.",
+        "rating": 5
+      },
+      {
+        "user": "James",
+        "comment": "Nice, but I expected a bit more depth to the scent.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "name": "Woodland Essence",
+    "description": "An earthy scent with notes of cedarwood, sandalwood, and a hint of vanilla.",
+    "price": 59.99,
+    "image": "https://exumafragrance.com/wp-content/uploads/2023/11/woodland-main-sq.jpg",
+    "reviews": [
+      {
+        "user": "Mia",
+        "comment": "Such a grounded and warm scent, I wear it in colder weather.",
+        "rating": 5
+      },
+      {
+        "user": "Lucas",
+        "comment": "A bit too woody for my taste, but my wife loves it.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Blooming Garden",
+    "description": "A floral masterpiece with peony, lily of the valley, and a touch of musk.",
+    "price": 54.99,
+    "image": "https://hemaniherbals.com/images/thumbs/0010770_blooming-garden-100ml-edp-perfume-for-him-her_550.jpeg",
+    "reviews": [
+      {
+        "user": "Charlotte",
+        "comment": "Such a delicate and feminine fragrance. Perfect for spring.",
+        "rating": 5
+      },
+      {
+        "user": "Ethan",
+        "comment": "Floral but not overwhelming, it’s a soft scent.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Golden Amber",
+    "description": "Rich amber, warm spices, and a hint of patchouli create this luxurious fragrance.",
+    "price": 69.99,
+    "image": "https://fimgs.net/mdimg/perfume/375x500.100575.jpg",
+    "reviews": [
+      {
+        "user": "Harper",
+        "comment": "Deep and seductive, my signature scent.",
+        "rating": 5
+      },
+      {
+        "user": "Mason",
+        "comment": "Intense and bold, not for everyone but I love it.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Exotic Oud",
+    "description": "A mysterious blend of oud, saffron, and rose petals, perfect for special occasions.",
+    "price": 89.99,
+    "image": "https://m.media-amazon.com/images/I/51gDM9Te5KL._SL1200_.jpg",
+    "reviews": [
+      {
+        "user": "Amelia",
+        "comment": "I love the depth and complexity of this fragrance.",
+        "rating": 5
+      },
+      {
+        "user": "Benjamin",
+        "comment": "Very strong, I would recommend it for evening wear.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Lavender Fields",
+    "description": "Relaxing lavender with a touch of eucalyptus and rosemary, ideal for unwinding.",
+    "price": 34.99,
+    "image": "https://piimages.parfumo.de/5/2/209130_76be219c58cb8318117ee81fc91356c6_lavender-fields.jpg",
+    "reviews": [
+      {
+        "user": "Ella",
+        "comment": "Perfect for relaxation. I love using it before bed.",
+        "rating": 5
+      },
+      {
+        "user": "Jacob",
+        "comment": "The scent is nice, but a bit too herbal for me.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "name": "Velvet Noir",
+    "description": "A sensual fragrance with blackcurrant, patchouli, and a soft hint of vanilla.",
+    "price": 74.99,
+    "image": "https://piimages.parfumo.de/1/0/34383_b7f7e729a31c10dece3b5455c88ff57a.jpg",
+    "reviews": [
+      {
+        "user": "Zoe",
+        "comment": "Smooth, luxurious, and perfect for a night out.",
+        "rating": 5
+      },
+      {
+        "user": "Alexander",
+        "comment": "A bit too sweet for me, but definitely bold.",
+        "rating": 4
+      }
+    ]
+  }
+]
